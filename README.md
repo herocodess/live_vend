@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # live_vend
 
 A new Flutter project.
@@ -14,3 +15,6 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# live_vend
+>>>>>>> e76cf6f61c03afa359b73105f428e5e1f98c40f9
